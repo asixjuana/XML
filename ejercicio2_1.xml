@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ejercicio2_1 SYSTEM "venda.dtd">
+<listadeventas>
+    <venta>
+        <importe>100.50</importe>
+        <comprador>Juan Pérez</comprador>
+        <vendedor>Marta Gómez</vendedor>
+        <fecha>02/03/2023</fecha>
+        <factura>A123456</factura>
+    </venta>
+    <venta>
+        <importe>50.75</importe>
+        <comprador>Laura García</comprador>
+        <vendedor>Carlos Fernández</vendedor>
+        <fecha>01/03/2023</fecha>
+        <factura>B234567</factura>
+    </venta>
+</listadeventas>

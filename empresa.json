@@ -1,0 +1,25 @@
+//Una empresa té els següents empleats:  
+//Rosa Rostein, edat 27 anys, provinent de Londres
+//Jack Jovecky, edat 32 anys, provinent de Praga
+//Tim Tosk, 22 anys, provinent de Sidney
+//Aki Kovalen, 42 anys, provinent de Helskini.
+//Crea un document JSON, en el que l’element arrel s’anomena empresa
+{empresa: [
+{
+    "nombre": "Rosa",
+    "apellidos": "Rostein",
+    "edad": 27,
+    "ciudad": "Londres"
+},
+{
+    "nombre": "Jack",
+    "apellidos": "Jovecky",
+    "edad": 32,
+    "ciudad": "Praga" 
+},
+{
+    "nombre": "Tim",
+    "apellidos": "Tosk",
+    "edad": 22,
+    "ciudad": "Londres"
+}]}

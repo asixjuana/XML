@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE empleados SYSTEM "empleados.dtdl">
+<empleados>
+    <empleado>
+        <nombre>Rosa</nombre>
+        <apellido>Rostein</apellido>
+        <edad>27</edad>
+        <ciudad>Londres</ciudad>
+    </empleado>
+    <empleado>
+        <nombre>Jack</nombre>
+        <apellido>Jovecky</apellido>
+        <edad>32</edad>
+        <ciudad>Praga</ciudad>
+    </empleado>
+    <empleado>
+        <nombre>Tim</nombre>
+        <apellido>Tosk</apellido>
+        <edad>22</edad>
+        <ciudad>Sidney</ciudad>
+    </empleado>
+    <empleado>
+        <nombre>Aki</nombre>
+        <apellido>Kovalen</apellido>
+        <edad>42</edad>
+        <ciudad>Helskini</ciudad>
+    </empleado>
+</empleados>

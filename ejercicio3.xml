@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Receta nombre="quiche de verduras">
+    <Ingredientes_masa_quebrada>
+        <Ingrediente cantidad="200g">Harina de Trigo</Ingrediente>
+        <Ingrediente cantidad="100g">Mantequilla</Ingrediente>
+        <Ingrediente cantidad="60-70g">Clara de Huevo</Ingrediente>
+    </Ingredientes_masa_quebrada>
+    <Ingredientes_relleno>
+        <Ingrediente cantidad="2">Cebolletas</Ingrediente>
+        <Ingrediente cantidad="1">Zanahoria</Ingrediente>
+        <Ingrediente cantidad="0.5">Calabacín</Ingrediente>
+        <Ingrediente cantidad="100g">Pan rallado</Ingrediente>
+        <Ingrediente cantidad="3">Huevos</Ingrediente>
+        <Ingrediente cantidad="150ml">Nata líquida</Ingrediente>
+        <Ingrediente>Aceite de oliva virgen extra</Ingrediente>
+        <Ingrediente>Sal</Ingrediente>
+        <Ingrediente>Pimienta negra molida</Ingrediente>
+    </Ingredientes_relleno>
+</Receta>

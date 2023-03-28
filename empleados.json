@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleats>
+    <empleat>
+        <nom>Rosa Rostein</nom>
+        <edat>27</edat>
+        <ciutat>Londres</ciutat>
+    </empleat>
+</empleats>
+
+{
+    "empleados": [
+        {
+            "nombre": "Rosa Rostein",
+            "edad": 27,
+            "ciudad": "Londres"
+        }
+    ]
+}

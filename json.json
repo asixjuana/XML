@@ -1,0 +1,19 @@
+{ //cuando pones una clave significa que quieres guardar una o varias propiedades
+    "titol": "El Senyor dels Anells", //escribes la propiedad entre comillas y coma al final para ir listando los diferentes campos
+    "autor": "J.R.R. Tolkien",
+    "any": 1954, //no es necesario poner los números entre comillas
+    "gèneres": ["Fantasia", "Aventura"] //en esta propiedad guardamos dos elementos y para ello usamos los corchetes
+}
+
+//este json en xml sería de la siguiente manera
+
+<libro>
+  <título>El señor de los anillos</título>
+  <autor>Tolkien</autor>
+  <año>1954</año>
+  <generos>
+      <genero>Fantasía</genero>
+      <genero>Aventura</genero>
+  </generos>
+</libro>
+  

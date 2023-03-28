@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<maquinas>
+    <PC id="001">
+        <procesador marca="AMD">Ryzen 7</procesador>
+        <ram>32 GB</ram>
+        <disco_duro capacidad="480GB">Kioxia EXERIA</disco_duro>
+    </PC>
+    <PC id="002">
+        <procesador marca="intel">i5</procesador>
+        <ram>16 GB</ram>
+        <disco_duro capacidad="2TB">Seagate Barracuda 3.5"</disco_duro>
+    </PC>
+    <PC id="003">
+        <procesador marca="intel">i7</procesador>
+        <ram>8 GB</ram>
+        <disco_duro capacidad="240GB">Kingston A400</disco_duro>
+    </PC>
+</maquinas>

@@ -1,0 +1,41 @@
+{
+    "inventario": [
+        {
+            "lápiz": [
+                {
+                    "marca": "bic"
+        
+                },
+                {
+                    "marca": "Standler",
+                    "dureza": "H2"
+                }
+            ]
+        }
+        {
+            "cuaderno": [
+                {
+                    "num_hojas": 80,
+                    "estilo": "2 rayas",
+                    "precio": 0.80
+                }
+                {
+                    "num_hojas": 100,
+                    "estilo": "Cuadriculado"
+                }
+            ]
+        }
+        {
+            "bolígrafo": [
+                {
+                    "precio": 0.80
+                },
+                {
+                    "precio": 0.80,
+                    "color": "rojo"
+                }
+
+            ]
+        }
+    ]
+}

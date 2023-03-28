@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet type="text/xsl" href="ciclista.xslt"?>
+<!DOCTYPE ejercicio2_1 SYSTEM "venda.dtd">
+<ciclistas>
+    <ciclista>
+      <nombre>Andrés González</nombre>
+      <edad>28</edad>
+      <altura>1.81</altura>
+      <peso>72</peso>
+      <nacionalidad>Colombia</nacionalidad>
+    </ciclista>
+    <ciclista>
+      <nombre>Marta Sánchez</nombre>
+      <edad>25</edad>
+      <altura>1.63</altura>
+      <peso>58</peso>
+      <nacionalidad>España</nacionalidad>
+    </ciclista>
+    <ciclista>
+      <nombre>John Smith</nombre>
+      <edad>31</edad>
+      <altura>1.87</altura>
+      <peso>80</peso>
+      <nacionalidad>Estados Unidos</nacionalidad>
+    </ciclista>
+     <ciclista>
+      <nombre>Silvia Bravo</nombre>
+      <edad>23</edad>
+      <altura>1.64</altura>
+      <peso>55</peso>
+      <nacionalidad>Colombia</nacionalidad>
+    </ciclista>
+    <ciclista>
+      <nombre>Luis Pérez</nombre>
+      <edad>29</edad>
+      <altura>1.76</altura>
+      <peso>70</peso>
+      <nacionalidad>México</nacionalidad>
+    </ciclista>
+    <ciclista>
+      <nombre>Carla Fernández</nombre>
+      <edad>24</edad>
+      <altura>1.69</altura>
+      <peso>62</peso>
+      <nacionalidad>España</nacionalidad>
+    </ciclista>
+    <ciclista>
+      <nombre>Paolo Rossi</nombre>
+      <edad>35</edad>
+      <altura>1.73</altura>
+      <peso>68</peso>
+      <nacionalidad>Italia</nacionalidad>
+    </ciclista>
+    <ciclista>
+      <nombre>José Gómez</nombre>
+      <edad>26</edad>
+      <altura>1.78</altura>
+      <peso>74</peso>
+      <nacionalidad>Chile</nacionalidad>
+    </ciclista>
+    <ciclista>
+      <nombre>Julia García</nombre>
+      <edad>22</edad>
+      <altura>1.70</altura>
+      <peso>57</peso>
+      <nacionalidad>España</nacionalidad>
+    </ciclista>
+    <ciclista>
+      <nombre>Pedro Ramírez</nombre>
+      <edad>27</edad>
+      <altura>1.82</altura>
+      <peso>76</peso>
+      <nacionalidad>México</nacionalidad>
+    </ciclista>
+  </ciclistas>
+  
