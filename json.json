@@ -17,3 +17,30 @@
   </generos>
 </libro>
   
+  {
+    "nom": "Maria",
+    "edat": 30,
+    "adreça": {
+      "carrer": "Carrer Gran",
+      "ciutat": "Barcelona",
+      "codiPostal": "08001"
+    },
+    "llistesCompra": [ //array es cuando utilizamos corchetes para añadir grupos de elementos dentro de otro elemento
+      {
+        "producte": "Pa",
+        "quantitat": 2,
+        "preuUnitari": 1.5
+      },
+      {
+        "producte": "Llet",
+        "quantitat": 1,
+        "preuUnitari": 0.8
+      },
+      {
+        "producte": "Oli d'oliva",
+        "quantitat": 1,
+        "preuUnitari": 5.0
+      }
+    ]
+  }
+  

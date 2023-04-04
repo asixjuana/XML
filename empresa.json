@@ -4,12 +4,44 @@
 //Tim Tosk, 22 anys, provinent de Sidney
 //Aki Kovalen, 42 anys, provinent de Helskini.
 //Crea un document JSON, en el que l’element arrel s’anomena empresa
-{empresa: [
+
+{"empresa": [
+    {
+        "nombre": "Rosa",
+        "apellidos": "Rostein",
+        "edad": 27,
+        "ciudad": "Londres"
+    },
+    {
+        "nombre": "Jack",
+        "apellidos": "Jovecky",
+        "edad": 32,
+        "ciudad": "Praga" 
+    },
+    {
+        "nombre": "Tim",
+        "apellidos": "Tosk",
+        "edad": 22,
+        "ciudad": "Sidney"
+    },
+    {
+        "nombre": "Aki",
+        "apellidos": "Kovalen",
+        "edad": 42,
+        "ciudad": "Helskini"
+    }
+]
+}
+//Rosa Rostein té tres números de telèfon:  555-1234, 555-0000 i 555-8888
+//Aki Kovalen té dues mascotes, que s’anomenen Sky i Fodor
+//Tim Tosk té dos cotxes: un Renault, model Clio de color blanc i Fiat, model panda, de color blau 
+
 {
     "nombre": "Rosa",
     "apellidos": "Rostein",
     "edad": 27,
-    "ciudad": "Londres"
+    "ciudad": "Londres",
+    "teléfono": ["555-1234", "555-0000", "555-8888"]
 },
 {
     "nombre": "Jack",
@@ -21,5 +53,24 @@
     "nombre": "Tim",
     "apellidos": "Tosk",
     "edad": 22,
-    "ciudad": "Londres"
-}]}
+    "ciudad": "Sidney",
+    "coches": [
+        {
+            "marca": "Renault",
+            "modelo": "Clio",
+            "color": "blanco"
+        },
+        {
+            "marca": "Fiat",
+            "modelo": "Panda",
+            "color": "Azul"
+        }
+    ]
+},
+{
+    "nombre": "Aki",
+    "apellidos": "Kovalen",
+    "edad": 42,
+    "ciudad": "Helskini",
+    "mascotas": ["Sky", "Fodor"]
+}

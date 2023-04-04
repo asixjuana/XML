@@ -1,0 +1,14 @@
+<!ELEMENT ciclistas (ciclista+)>
+<!ELEMENT ciclista (nombre, edad, altura, peso, nacionalidad)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT altura (#PCDATA)>
+<!ELEMENT peso (#PCDATA)>
+<!ELEMENT nacionalidad (#PCDATA)>
+<!ATTLIST ciclistas xmlns CDATA #FIXED ''>
+
+
+El elemento raíz es "ciclistas", que debe contener uno o más elementos "ciclista".
+Cada "ciclista" debe contener un "nombre", "edad", "altura", "peso" y "nacionalidad".
+Los elementos "nombre", "edad", "altura", "peso" y "nacionalidad" contienen datos de tipo #PCDATA (datos de caracteres).
+La declaración ATTLIST se usa para definir atributos para el elemento "ciclistas". En este caso, se define un atributo "xmlns" que es requerido y que contiene un valor de cadena vacía.
